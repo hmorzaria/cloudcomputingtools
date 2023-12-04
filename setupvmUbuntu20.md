@@ -1,5 +1,5 @@
-# Set up virtual machine 
-## save as setup.sh
+# Set up virtual machine running Ubuntu 20.04 
+Save script as setup.sh
 
 ``` .console
     #!/bin/bash
